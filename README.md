@@ -25,8 +25,8 @@ The analysis focuses on four management questions:
 
 The project uses two CSV files:
 
-- `orders.csv` — 800 order records.
-- `shipments.csv` — 800 shipment records.
+`e-commerce-logistics-analytics-v3-csv-orders.csv` — 800 order records.
+`e-commerce-logistics-analytics-v3-csv-shipments.csv` — 800 shipment records.
 
 The data was imported into MySQL and analyzed using the order and shipment identifiers to connect related records.
 
@@ -89,9 +89,9 @@ The available data also does not establish why shipments remain pending or why r
 
 ## Project Files
 
-- `Shipping_Logistics_Analysis.docx` — Project documentation.
+Shipping and logistics analysis documentation.docx — Project documentation.
 - `shipping_logistics_analysis.sql` — SQL queries used in the analysis.
-- `orders.csv` and `shipments.csv` — Original dataset files.
+- `e-commerce-logistics-analytics-v3-csv-orders.csv` and `e-commerce-logistics-analytics-v3-csv-shipments.csv` — Original dataset files.
 - `Shipping_Logistics_Performance_Analysis.pbix` — Power BI dashboard file.
 - `Shipping and Logistics Dashboard.png` — Dashboard screenshot.
 
